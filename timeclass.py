@@ -29,5 +29,4 @@ print(result)
     
 
 
-# result_stoz=time.sanieh_zaman()
-# result_stoz.show()
+
